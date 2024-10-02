@@ -8,8 +8,9 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Estudante de Ciência da Computação pela IBMR e entusiasta no mundo da programação, busco minha ascensão no mundo 
+da Análise de Dados e nos Desenvolvimento de Software. Atualmente estudo Python e montagem de dashboards e em paralelo estudo HTML, CSS e 
+JavaScript.
   
 #
 
