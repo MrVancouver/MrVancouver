@@ -8,7 +8,7 @@
 </div>
 <br>
 <p align="center">Estudante de Ciência da Computação pela IBMR e entusiasta no mundo da programação, busco minha ascensão no mundo 
-da Análise de Dados e nos Desenvolvimento de Software. Atualmente estudo Python e montagem de dashboards e em paralelo estudo HTML, CSS e 
+da Análise de Dados e nos Desenvolvimento de Software. Atualmente estudo Python, MySQL e PowerBI e em paralelo estudo HTML, CSS e 
 JavaScript.
   
 #
