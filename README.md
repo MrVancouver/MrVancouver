@@ -8,11 +8,11 @@
 </div>
 <br>
 <p align="center">
-<bold>* PT-BR * </bold><br>
+<h3>* PT-BR * </h3><br>
 Estudante de Ciência da Computação pela IBMR e entusiasta no mundo da programação, busco minha ascensão no mundo 
 da Análise de Dados e nos Desenvolvimento de Software. Atualmente estudo Python, MySQL e PowerBI e em paralelo estudo HTML, CSS e 
 JavaScript.
-<br><bold> * EN-US * </bold><br>
+<br><h3> * EN-US * </h3><br>
 I am a Computer Science student at IBMR and an enthusiast in the programming world, seeking my rise in the fields of Data Analysis and Software Development. 
 I am currently studying Python, MySQL, and Power BI, while also studying HTML, CSS, and JavaScript in parallel.
   
