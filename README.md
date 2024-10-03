@@ -11,7 +11,6 @@
 
 
 <br>
-<img src="study.gif">
 <h3 align="left"> About me </h3> 
 <p align="center">
 <h3>* PT-BR * </h3>
@@ -48,7 +47,7 @@ I am currently studying Python, MySQL, and Power BI, while also studying HTML, C
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
   <img width="8" />
 </div>
-
+<img src="study.gif" align="right">
 #
 
 <div style="text-align: center;" align="center">
