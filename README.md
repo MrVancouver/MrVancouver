@@ -45,9 +45,9 @@ I am currently studying Python, MySQL, and Power BI, while also studying HTML, C
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="study.gif" align="right">
+  <img width="8" />  
 </div>
+
 
 
 #
