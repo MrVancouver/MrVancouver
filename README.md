@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: black">
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=%E2%96%A0+Hello+There!+Welcome+to+my+profile!" alt="Typing SVG" />
 </a>
@@ -30,27 +30,28 @@ I am currently studying Python, MySQL, and Power BI, while also studying HTML, C
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/im_raphas/)
 
 #
-
+<img src="Ry6p.gif" align="right" width=150 height=150>
 <h3 align="left">My Stack </h3>
-<img src="Ry6p.gif" align="right" width=30 height=30>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="8" />  
+  <img width="10" />  
 </div>
 
 
 
 #
+
+
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
