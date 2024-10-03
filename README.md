@@ -30,7 +30,7 @@ I am currently studying Python, MySQL, and Power BI, while also studying HTML, C
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/im_raphas/)
 
 #
-<img src="coding studying.gif" align="right" width=300 height=250>
+<img src="coding.gif" align="right" width=300 height=250>
 <h3 align="left">My Stack </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
