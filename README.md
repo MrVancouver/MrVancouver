@@ -11,7 +11,7 @@
 
 
 <br>
-<img align="right" alt="" height="190px" src="study.gif">
+<img src="study.gif">
 <h3 align="left"> About me </h3> 
 <p align="center">
 <h3>* PT-BR * </h3>
