@@ -46,8 +46,10 @@ I am currently studying Python, MySQL, and Power BI, while also studying HTML, C
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
   <img width="8" />
+  <img src="study.gif" align="right">
 </div>
-<img src="study.gif" align="right">
+
+
 #
 
 <div style="text-align: center;" align="center">
