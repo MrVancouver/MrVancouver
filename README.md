@@ -32,7 +32,7 @@ I am currently studying Python, MySQL, and Power BI, while also studying HTML, C
 #
 
 <h3 align="left">My Stack </h3>
-<img src="Ry6p.gif" align="right">
+<img src="Ry6p.gif" align="right" width=15 height=15>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
