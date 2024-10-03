@@ -11,7 +11,7 @@
 
 
 <br>
-<h3>* About me *</h3> 
+<h3 align="left"> About me </h3> 
 <p align="center">
 <h3>* PT-BR * </h3>
 Estudante de Ciência da Computação pela IBMR e entusiasta no mundo da programação, busco minha ascensão no mundo 
