@@ -23,7 +23,6 @@ I am a Computer Science student at IBMR and an enthusiast in the programming wor
 I am currently studying Python, MySQL, and Power BI, while also studying HTML, CSS, and JavaScript in parallel.
 </p>
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Social</h3>
 
