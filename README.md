@@ -1,4 +1,4 @@
-<div align="center" style="background-color: black">
+<div align="center">
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=%E2%96%A0+Hello+There!+Welcome+to+my+profile!" alt="Typing SVG" />
 </a>
@@ -48,10 +48,8 @@ I am currently studying Python, MySQL, and Power BI, while also studying HTML, C
 </div>
 
 
-
+<br><br><br>
 #
-
-
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
